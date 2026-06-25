@@ -4,7 +4,7 @@
 
 I build backend-heavy full stack applications with **Spring Boot** and **React**.  
 Passionate about understanding how things work under the hood — JVM internals, Spring Security filter chains, JPA/Hibernate lifecycle, system design.  
-Currently deep in Java Full Stack training at JSpiders, targeting roles at product companies like **Zoho, Freshworks, and Chargebee**.
+Currently deep in Java Full Stack training at JSpiders, targeting roles at product companies.
 
 ---
 
